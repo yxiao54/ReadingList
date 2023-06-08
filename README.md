@@ -3,9 +3,9 @@
 |Topic|Paper|Description|
 |:-:|:-:|:-:|
 |Transformer|EgoViT: Pyramid Video Transformer for Egocentric Action Recognition|[Jump](#EgoViT)|
-|Transformer|Learning Transferable Visual Models From Natural Language Supervision|[Jump](#Learning_Transferable_Visual_Models)|
-|Transformer|Fourier Neural Operator for Parametric Partial Differential Equations|[Jump](#Fourier_Neural_Operator)|
-|Transformer|COCOA: Cross Modality Contrastive Learning for Sensor Data|[Jump](#COCOA)|
+|Contrastive Learning|Learning Transferable Visual Models From Natural Language Supervision|[Jump](#Learning_Transferable_Visual_Models)|
+|Fourier|Fourier Neural Operator for Parametric Partial Differential Equations|[Jump](#Fourier_Neural_Operator)|
+|Contrastive Learning|COCOA: Cross Modality Contrastive Learning for Sensor Data|[Jump](#COCOA)|
 ### EgoViT: Pyramid Video Transformer for Egocentric Action Recognition
 <span id="EgoViT"></span>
 ***Summary:***  Egocentric videos often have a large amount of background scene transition, 
